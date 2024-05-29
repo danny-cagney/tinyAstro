@@ -3,46 +3,27 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-<h3>Welcome to tinyAstro - Navigating the New Frontiers of Science and Technology</h3><br>
-<p>Dive into the thrilling realms of science and technology with tinyAstro, a unique blog where the boundaries of knowledge are constantly expanding. Our platform is dedicated to unraveling the intricate tapestry of economic opportunities, scientific advancements, and technological innovations shaping our world and beyond.</p>
-<br>
-<h3>What We Explore:</h3><br>
-<p>Our long-form articles meticulously cover the latest developments across a spectrum of fields, from groundbreaking space exploration ventures to the booming tech industry. We delve deep into the economics driving these high-stakes arenas, providing our readers with insightful analyses of trends in science, technology, and beyond.</p>
-<br>
-<h3>Insights and Implications:</h3><br>
-<p>Stay informed with our expert analyses on policy and its economic implications across various sectors. As humanity reaches further into the cosmos and deeper into the digital age, understanding the policy landscape becomes as crucial as the technology itself. We explore how these policies shape the economic landscape of science, technology, and commercial ventures.</p>
-<br>
-<h3>For Whom We Write:</h3><br>
-<p>Our content is tailored to engage a diverse audience ranging from industry professionals and tech enthusiasts to students and general readers intrigued by the intersection of science, technology, and economics. Whether you're an expert or a curious learner, our blog offers a wealth of information made accessible to all.</p>
-<br>
-<h3>Our Approach:</h3><br>
-<p>At tinyAstro, we believe in making complex concepts in economics, computer science, and technology understandable and engaging. Our approach is to present content that’s not only informative but also accessible, breaking down intricate topics into digestible, compelling narratives.</p>
-<br>
-<h3>Join Our Journey:</h3><br>
-<p>Join us on this exciting journey as we explore the economic dimensions and technological advancements of our quest for knowledge and innovation. tinyAstro is your go-to source for understanding how scientific and technological ventures are unlocking new potentials and shaping the future.</p>
-<br>
+In a world that’s constantly moving at speed, I believe in the power of slowing down to think deeply and write thoughtfully.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+## What This Blog Is About
 
-## Tech Stack
+This blog is my personal space to explore and articulate my thoughts on a variety of subjects that fascinate me. Here, you’ll find reflections on:
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- Technology: Exploring the latest trends, innovations, and their impact on our lives.
+- Business: Insights into the world of startups, entrepreneurship, and corporate strategy.
+- Life: Musings on personal growth, productivity, and the human experience.
+- Science: Delving into the wonders of scientific discovery and its implications.
+- Entrepreneurship: Sharing lessons learned, challenges faced, and the journey of building something from the ground up.
+- Innovation: Examining creative ideas and breakthroughs that shape our future.
 
-## Features
+## Why I Write
 
-Here are certain features of this site.
+Writing helps me slow down, think critically, and clarify my thoughts. It's a way for me to capture and share my learning journey. Through this blog, I aim to foster a space for thoughtful discussion and reflection, inviting readers to join me in exploring these diverse topics.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Join the Conversation
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+I believe that great ideas emerge from open dialogue. I encourage you to share your thoughts, insights, and feedback in the comments. Together, we can create a vibrant community of curious minds eager to learn and grow.
+
+Thank you for visiting. I look forward to sharing this journey with you.
+
+Or you can even give any feedback via my [email](mailto:me@danielcagney.com).
