@@ -1,7 +1,7 @@
 ---
 author: Daniel Cagney
-pubDatetime: 2024-05-29T15:22:00Z
-modDatetime: 2024-05-29T15:12:47.400Z
+pubDatetime: 2024-05-29T21:22:00Z
+modDatetime:
 title: The Role of ASICs in Shaping the Future of AI Semiconductors
 slug: asic-ai-future
 featured: true
@@ -10,9 +10,7 @@ tags:
   - docs
   - AI
   - semiconductors
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: Discover how ASICs are revolutionizing AI hardware with unmatched efficiency and performance in our latest blog post.
 ---
 
 # The Role of ASICs in Shaping the Future of AI Semiconductors

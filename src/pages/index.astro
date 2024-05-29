@@ -26,15 +26,22 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <h1>Welcome</h1>
 
       <p>
-        Welcome to tinyAstro, your gateway to the emerging world of space
-        economics. Our blog offers a deep dive into the latest developments in
-        the space industry, from cutting-edge exploration to dynamic commercial
-        ventures. We specialize in providing comprehensive analyses of economic
-        trends shaping space exploration and the policies driving these
-        advancements.
+        In our fast-paced world, taking the time to slow down and think deeply
+        is a luxury we often overlook. Here, you'll find musings on technology,
+        business, life, science, entrepreneurship, and innovation.
+        <p>
+          Through writing, I aim to explore the complexities of these subjects,
+          uncovering new insights and perspectives along the way. Whether it’s
+          the latest trends in tech, the principles of starting and growing a
+          business, the wonders of scientific discovery, or the nuances of
+          personal growth and innovation, this blog is a reflection of my
+          journey to understand and articulate the world around us.
+        </p>
+
+        <p>Let's slow down, think deeply, and learn together.</p>
       </p>
 
-      <p>
+      <!-- <p>
         Read the blog posts or check
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
@@ -42,7 +49,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         >
           README
         </LinkButton> for more info.
-      </p>
+      </p> -->
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
