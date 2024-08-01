@@ -11,6 +11,8 @@ tags:
   - software
   - OTA
   - security
+  - MCUboot
+  - Zephyr
 description: Discover how secure, encyprted OTA updates for IoT devices can be enhanced for security and performance using MCUboot and Zephyr.
 ---
 
