@@ -5,7 +5,7 @@ modDatetime: 2024-11-30T09:12:47.400Z
 title: Creating my first post
 slug: daniel-cagney
 featured: true
-draft: false
+draft: true
 tags:
   - docs
 description: A short description of the post. This will be used as the excerpt of the post.
