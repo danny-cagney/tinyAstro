@@ -4,7 +4,7 @@ pubDatetime: 2024-05-30T18:06:31Z
 modDatetime:
 title: "LAB: Making AI Chatbots Smarter and More Efficient"
 slug: ab-large-scale-alignment-bots
-featured: true
+featured: false
 draft: false
 tags:
   - AI

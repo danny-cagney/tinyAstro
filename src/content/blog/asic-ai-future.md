@@ -4,7 +4,7 @@ pubDatetime: 2024-05-29T21:22:00Z
 modDatetime:
 title: The Role of ASICs in Shaping the Future of AI Semiconductors
 slug: asic-ai-future
-featured: true
+featured: false
 draft: false
 tags:
   - docs

@@ -4,7 +4,7 @@ pubDatetime: 2024-08-01T08:22:00Z
 modDatetime:
 title: Making Firmware Updates Secure in IoT Devices
 slug: making-firmware-updates-secure-in-iot-devices
-featured: true
+featured: false
 draft: false
 tags:
   - embedded

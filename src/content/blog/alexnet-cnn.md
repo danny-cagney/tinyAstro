@@ -4,7 +4,7 @@ pubDatetime: 2024-05-30T15:22:00Z
 modDatetime:
 title: "Understanding Deep Convolutional Neural Networks for Image Recognition"
 slug: alexnet-cnn
-featured: true
+featured: false
 draft: false
 tags:
   - AI

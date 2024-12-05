@@ -4,7 +4,7 @@ pubDatetime: 2024-05-30T20:22:00Z
 modDatetime:
 title: "Unlocking Innovation: The Power of the Minimum Viable Product (MVP) in Product Development"
 slug: unlocking-innovation-mvp
-featured: true
+featured: false
 draft: false
 tags:
   - mvp

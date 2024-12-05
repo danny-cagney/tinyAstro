@@ -4,7 +4,7 @@ pubDatetime: 2024-05-30T18:22:00Z
 modDatetime:
 title: "ASICs vs. FPGAs: The Future of AI Hardware"
 slug: asic-versus-fpga
-featured: true
+featured: false
 draft: false
 tags:
   - AI
